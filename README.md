@@ -7,7 +7,12 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 
-<img src='images/ss.jpg' width='402'>
+<img src='images/ss1.jpg' width='201'> <img src='images/ss2.jpg' width='201'> <img src='images/ss3.jpg' width='201'> <img src='images/ss4.jpg' width='201'><img src='images/ss5.jpg' width='201'><img src='images/ss6.jpg' width='201'>
+
+
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
