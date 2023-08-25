@@ -11,6 +11,6 @@
 
 
 ## Kullanılan Teknolojiler
- - Flutter
- - Firebase
- - RevenueCat
+ - **Flutter**
+ - **Firebase** => Auth, Analytics, Storage, DB, Push Notifications
+ - **RevenueCat** => IAP
